@@ -1,1 +1,1 @@
- pwd : Display the contents list of your current directory.
+ pwd : Write a script that changes the working directory to the user’s home directory.
